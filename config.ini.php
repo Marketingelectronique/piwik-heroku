@@ -6,7 +6,7 @@ username = ${DB_USER}
 password = ${DB_PASSWORD}
 dbname = ${DB_DATABASE}
 port = ${DB_PORT}
-tables_prefix = "piwik_"
+tables_prefix = "matomo_"
 
 [General]
 salt = ${SALT}
