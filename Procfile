@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx -F fpm_custom.conf vendor/piwik/piwik
+web: vendor/bin/heroku-php-nginx -F fpm_custom.conf vendor/matomo/matomo
