@@ -75,7 +75,6 @@ Plugins[] = Intl
 Plugins[] = Marketplace
 Plugins[] = ProfessionalServices
 Plugins[] = UserId
-Plugins[] = CustomPiwikJs
 
 [PluginsInstalled]
 PluginsInstalled[] = "Diagnostics"
@@ -136,7 +135,6 @@ PluginsInstalled[] = "Heartbeat"
 PluginsInstalled[] = "Marketplace"
 PluginsInstalled[] = "ProfessionalServices"
 PluginsInstalled[] = "UserId"
-PluginsInstalled[] = "CustomPiwikJs"
 PluginsInstalled[] = "TestRunner"
 PluginsInstalled[] = "SecurityInfo"
 PluginsInstalled[] = "GeoIp2"
